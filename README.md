@@ -12,7 +12,7 @@ Open your terminal, and navigate to your desired directory.
 Clone the Mindspace repository using the following command:
 
 
-git clone https://github.com/{username}/{repository-name}.git
+gh repo clone kakashi848/mindspace
 Navigate to the frontend directory using the following command:
 
 
